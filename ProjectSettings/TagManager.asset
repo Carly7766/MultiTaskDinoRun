@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -12,14 +13,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Dino-Doux
+  - Dino-Mort
+  - Dino-Tard
+  - Dino-Vita
+  - Obstacle-Doux
+  - Obstacle-Mort
+  - Obstacle-Tard
+  - Obstacle-Vita
   - 
   - 
   - 
